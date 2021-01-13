@@ -1,3 +1,6 @@
+#Tik_Tak_Toa game . It's a two player game. 
+#Sudhakar N --- ^_^
+
 board = ["-" for i in range(9)]
 
 
